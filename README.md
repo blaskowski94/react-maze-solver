@@ -1,0 +1,1 @@
+This project contains a front-end written in React using ES6 style. It correspond to the project 'mazeSolver' and uses the backend of that project for now.
